@@ -1,0 +1,1 @@
+const proposalState = await governor.state(proposalId)
